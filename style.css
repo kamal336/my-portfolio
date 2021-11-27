@@ -14,7 +14,7 @@
 }
 
 h1{
-    font-size: 3rem;
+    font-size: 2.5rem;
     padding-top: 10px;
 }
 
@@ -50,10 +50,6 @@ p{
 .navbar-menu a:hover{
    
     background-color: #ddd;
-}
-
-.navbar-logo{
-  
 }
 
 
@@ -111,9 +107,6 @@ p{
  transform: rotate(360deg);
 }
 
-.profile .top-icon{
-
-}
 
 .profile .profile-icon-bottom{
     position: absolute;
@@ -222,9 +215,6 @@ box-shadow: 0 8px 5px 5px  black;
     color: black;
 }
 
-.card-description{
-
-}
 
 .card-description ul li{
     margin: 40px 10px;
